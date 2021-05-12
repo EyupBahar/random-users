@@ -1,0 +1,28 @@
+.user-profile{
+    background-image:-webkit-linear-gradient(#9AC4E3,#E0E9D5,#AADAD7) ;
+    box-sizing: border-box;
+    padding:0px;
+    margin:0px;
+    width:40rem;
+    border-radius: 10px;
+}
+.card-box{
+    margin-top:10%;
+    display:grid;
+    grid-template-columns:200px 400px;
+    grid-template-rows: 50px 50px;
+    grid-gap:10px;
+}
+.pic{
+    border-radius: 50%;
+    width:50%;
+}
+/* .logo1{
+    width:15%;
+    border:3px solid black;
+} */
+p{
+    text-align: center;
+    border:1px solid black;
+    font-size:1rem;
+}

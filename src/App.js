@@ -5,7 +5,6 @@ import UserCard from "./components/Card";
 function App() {
   return (
     <div>
-      HELLO FROM APP
       <UserCard />
     </div>
   );
