@@ -27,26 +27,27 @@ const UserCard = () => {
           <p id="name">
             {user.name.title} {user.name.first} {user.name.last}
           </p>
-          <img src={email} alt="logo" className="logo1" />
+          <img src={email} alt="logo" className="logo" />
           <p className="mail">{user.email}</p>
-          <img src={phone} alt="logo" className="logo2" />
+          <img src={phone} alt="logo" className="logo" />
           <p className="phone">{user.phone}</p>
-          <img src={location} alt="logo" className="logo3" />
+          <img src={location} alt="logo" className="logo" />
           <p className="location">
             {user.location.city} {user.location.country}
           </p>
-          <p>
-            {"Age:"}
-            {user.dob.age}
-          </p>
-          <br />
-          <p>
-            {"Register Date:"}
-            {user.registered.date}
-          </p>
+          <div className="info">
+            <p>
+              {"Age:"}
+              {user.dob.age}
+            </p>
+            <p>
+              {"Register Date:"}
+              {user.registered.date}
+            </p>
+          </div>
+          <button onClick={userData}>Random User</button>;
         </div>
       ))}
-      <button onClick={userData}>Random User</button>
     </div>
   );
 };
