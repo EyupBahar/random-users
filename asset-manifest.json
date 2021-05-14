@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/random-users/static/css/main.6c45a812.chunk.css",
+    "main.js": "/random-users/static/js/main.ceec65a3.chunk.js",
+    "main.js.map": "/random-users/static/js/main.ceec65a3.chunk.js.map",
+    "runtime-main.js": "/random-users/static/js/runtime-main.93b71b61.js",
+    "runtime-main.js.map": "/random-users/static/js/runtime-main.93b71b61.js.map",
+    "static/js/2.3608fe82.chunk.js": "/random-users/static/js/2.3608fe82.chunk.js",
+    "static/js/2.3608fe82.chunk.js.map": "/random-users/static/js/2.3608fe82.chunk.js.map",
+    "static/js/3.b66b9ec4.chunk.js": "/random-users/static/js/3.b66b9ec4.chunk.js",
+    "static/js/3.b66b9ec4.chunk.js.map": "/random-users/static/js/3.b66b9ec4.chunk.js.map",
+    "index.html": "/random-users/index.html",
+    "static/css/main.6c45a812.chunk.css.map": "/random-users/static/css/main.6c45a812.chunk.css.map",
+    "static/js/2.3608fe82.chunk.js.LICENSE.txt": "/random-users/static/js/2.3608fe82.chunk.js.LICENSE.txt",
+    "static/media/email.e1f03bb9.svg": "/random-users/static/media/email.e1f03bb9.svg",
+    "static/media/location.0b7d98ab.svg": "/random-users/static/media/location.0b7d98ab.svg",
+    "static/media/phone.d017e1ae.svg": "/random-users/static/media/phone.d017e1ae.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93b71b61.js",
+    "static/js/2.3608fe82.chunk.js",
+    "static/css/main.6c45a812.chunk.css",
+    "static/js/main.ceec65a3.chunk.js"
+  ]
+}
