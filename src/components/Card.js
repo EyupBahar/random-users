@@ -45,7 +45,7 @@ const UserCard = () => {
               {user.registered.date}
             </p>
           </div>
-          <button onClick={userData}>Random User</button>;
+          <button onClick={userData}>Random User</button>
         </div>
       ))}
     </div>
